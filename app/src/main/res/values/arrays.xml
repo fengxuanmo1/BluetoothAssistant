@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner">
+        <item>请选择对应地址</item>
+        <item>地址1</item>
+        <item>地址2</item>
+        <item>地址3</item>
+        <item>地址4</item>
+        <item>地址5</item>
+        <item>地址6</item>
+        <item>地址7</item>
+        <item>地址8</item>
+    </string-array>
+</resources>
